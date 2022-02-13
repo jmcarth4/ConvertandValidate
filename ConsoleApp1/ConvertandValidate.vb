@@ -2,12 +2,10 @@
 'RCET0265
 'Fall 2020
 'Convert and Validate
-'skjdfsfjslkfj
+'https://github.com/jmcarth4/ConvertandValidate
 
 Option Explicit On
 Option Strict On
-
-
 Module ConvertandValidate
     'function converts a string to 32 bit integer
     Function ConversionValid(ByVal convertThisString As String, ByRef toThisInteger As Integer) As Boolean
